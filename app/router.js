@@ -7,6 +7,7 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  // this.resource('index', { path: '/' });
   this.route('users');
 });
 
