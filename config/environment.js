@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'emberjs-practice-0',
+    modulePrefix: 'rainbow-connection',
     environment,
     rootURL: '/',
     locationType: 'auto',
